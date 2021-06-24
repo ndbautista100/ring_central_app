@@ -6,4 +6,4 @@ platform.login('nicholas.bautista@pacden.com', '5005421', 'Nick123032@')
 
 res = platform.get('/account/~/extension/~')
 print('User loaded ' + res.json().name)
-print("cxnrr")
+print("ngutl")
