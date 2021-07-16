@@ -1,1 +1,1 @@
-SELECT * from vcptw;
+SELECT * from mafpi;
