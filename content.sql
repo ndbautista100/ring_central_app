@@ -1,1 +1,1 @@
-SELECT * from tpfjt;
+SELECT * from uimxi;
