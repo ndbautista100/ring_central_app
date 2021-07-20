@@ -1,1 +1,1 @@
-SELECT * from xiscd;
+SELECT * from dgyex;
