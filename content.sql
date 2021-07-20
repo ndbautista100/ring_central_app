@@ -1,1 +1,1 @@
-SELECT * from mafpi;
+SELECT * from vjjns;
