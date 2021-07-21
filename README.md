@@ -1,6 +1,6 @@
 **This is a mock repository.** 
 
-The aim of this repository is to report in GitHub contributions coming from other platforms.
+The aim of this repository is to report in GitHub contributions coming from my private work repository on Bitbucket.
 
 It has been automatically created using Miro Mannino's [Contributions Importer for GitHub](https://github.com/miromannino/contributions-importer-for-github)
 
